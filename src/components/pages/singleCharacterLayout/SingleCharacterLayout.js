@@ -12,7 +12,7 @@ const SingleCharacterLayout = ({data}) => {
             <div className="single-comic__info">
                 <h2 className="single-comic__name">{name}</h2>
                 <p className="single-comic__descr">{description}</p>
-                <Link to="/" className="single-comic__back">Back to main</Link>
+                <Link to="/marvel-react/" className="single-comic__back">Back to main</Link>
             </div>
         </div>
     )

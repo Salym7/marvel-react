@@ -13,7 +13,7 @@ const Page404 = () => {
                 'fontSize': '24px',
                 'marginTop': '30px'
             }}
-                  to="/">Back to main page</Link>
+                  to="/marvel-react">Back to main page</Link>
         </div>
     )
 }
